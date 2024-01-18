@@ -1,6 +1,8 @@
 package hundred_days.first_day;
 
 public class RemoveDuplicateFromSortedArray {
+
+    //https://leetcode.com/problems/remove-duplicates-from-sorted-array
     private static int removeDuplicates(int[] nums) {
         int i = 0;
         for (int n : nums)
